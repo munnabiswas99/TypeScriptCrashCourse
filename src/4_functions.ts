@@ -34,13 +34,3 @@ let user:{name: string; age: number} = {
     age: 23
 };
 
-// Alternative for type annotation to an object
-interface User {
-    name: string;
-    age: number;
-}
-
-let user1: User = {
-    name: "munna",
-    age: 25
-}
