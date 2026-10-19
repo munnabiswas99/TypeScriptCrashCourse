@@ -13,7 +13,6 @@ let user1: User = {
 }
 
 // user1.id = 2; // Cannot assign to 'id' because it is a read-only property.
-
 // Interface with methods
 interface Product {
     name: string;
